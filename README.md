@@ -31,3 +31,7 @@ Learn to create Machine Learning Algorithms in Python and R.
 - [Course Slides & References](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/Machine-Learning-A-Z-Course-Downloadable-Slides-V1.5.pdf)
 - [Colab Notebooks](https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d?usp=sharing)
 - [Code Templates (.ipynb, .py, R), Datasets and Colour Blind Friendly Images](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/Machine-Learning-A-Z-Codes-Datasets.zip)
+
+## Miscellaneous
+- [Machine Learning A-Z Tips and Extra Resources](https://sdsclub.com/machine-learning-a-z-tips-and-resources/)
+- [ChatGPT for Data Science & Machine Learning: 5 Use Cases](https://www.youtube.com/watch?v=Bw7pAYv6iaM)
